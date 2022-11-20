@@ -1,0 +1,23 @@
+.tree {
+    width: 1020px;
+    height: 600px;
+    background: url(../image/img_tree.png) rgb(136, 184, 38) no-repeat;
+    background-position-y: 100px;
+    background-position-x: 800px;
+    border-width: 10px;
+    border-style: dotted solid double dashed;
+    border-color: brown yellow green greenyellow;
+    border-radius: 5%;
+}
+
+h1 {
+    color: green;
+    width:max-content;
+    background-color: antiquewhite;
+
+}
+p {
+    width: 700px;
+    background-color: aqua;
+}
+
